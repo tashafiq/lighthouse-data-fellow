@@ -2,7 +2,7 @@
 
 ### Applicant: Tahmeed Shafiq
 
-This repo is a part of my applicated for Lighthouse Reports' 2024 fellowship application cycle. It contains two examples of my work for both
+This repo is a part of my application for Lighthouse Reports' 2024 fellowship application cycle. It contains two examples of my work for both
 journalism and research projects:
 
 1. An email scraper used as part of my 2023 tenant rights' investigation for [The Local](https://thelocal.to/landlord-tenant-board-wait-times/). The file is [scrape-latest](https://github.com/tashafiq/lighthouse-data-fellow/blob/00808cef2d812635587ea983e08726fa4d27948f/scrape-latest.py).
